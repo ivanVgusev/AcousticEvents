@@ -1,0 +1,4 @@
+venv/
+lab2_dataset
+audio_train.zip
+train.pickle
